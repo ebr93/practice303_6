@@ -1,7 +1,7 @@
 package org.perscholas;
 
-public class StoneMonster extends Monster {
-	public StoneMonster(String name) {
+public class StoneMonsterFile extends MonsterFile {
+	public StoneMonsterFile(String name) {
 		super(name);
 	}
 

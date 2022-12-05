@@ -1,9 +1,9 @@
 package org.perscholas;
 
-public class Monster {
+public class MonsterFile {
 	String name;
 	
-	public Monster(String name) {
+	public MonsterFile(String name) {
 		this.name = name;
 	}
 	
